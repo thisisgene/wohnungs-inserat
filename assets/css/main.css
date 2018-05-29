@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,600");
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: Roboto, Arial, sans-serif; }
+
+section#home {
+  background: #eee;
+  padding: 1rem; }
+  section#home .main-container {
+    margin: 0 auto;
+    width: 60vw;
+    font-weight: 300;
+    background: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); }
+    section#home .main-container .text-container {
+      padding: 1rem 3rem; }
+    section#home .main-container .photo-gallery {
+      width: 100%; }
+      section#home .main-container .photo-gallery .grid {
+        width: 100%;
+        margin: 0 auto;
+        background: white;
+        column-count: 2; }
+        section#home .main-container .photo-gallery .grid .grid-item {
+          width: 100%;
+          background: pink;
+          border: 2px solid white;
+          box-sizing: border-box; }
+          section#home .main-container .photo-gallery .grid .grid-item img {
+            width: 100%; }
+  @media (max-width: 900px) {
+    section#home {
+      padding: 0; }
+      section#home .main-container {
+        width: 100vw;
+        box-shadow: none;
+        padding: 0; }
+        section#home .main-container .text-container {
+          padding: 1rem; }
+          section#home .main-container .text-container h1 {
+            font-size: 1.3rem; }
+        section#home .main-container .photo-gallery .grid {
+          column-count: 1; } }
