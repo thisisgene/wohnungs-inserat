@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed3e8f43-4ebf-41f8-a5d9-01d6d3d0af10" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/3-sections/home.sass" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/3-sections/home.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/home.pug" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/home.pug" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,11 +31,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.pug" pinned="false" current-in-tab="false">
+      <file leaf-file-name="home.pug" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/home.pug">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="6" selection-end-line="12" />
+            <state relative-caret-position="136">
+              <caret line="8" column="406" lean-forward="true" selection-start-line="8" selection-start-column="406" selection-end-line="8" selection-end-column="406" />
             </state>
           </provider>
         </entry>
@@ -50,7 +49,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.sass" pinned="false" current-in-tab="true">
+      <file leaf-file-name="home.sass" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/3-sections/home.sass">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
@@ -84,10 +83,10 @@
         <option value="$PROJECT_DIR$/assets/css/main.scss" />
         <option value="$PROJECT_DIR$/index.pug" />
         <option value="$PROJECT_DIR$/assets/js/script.js" />
-        <option value="$PROJECT_DIR$/_includes/home.pug" />
         <option value="$PROJECT_DIR$/_includes/head.pug" />
         <option value="$PROJECT_DIR$/assets/css/1-base/main.sass" />
         <option value="$PROJECT_DIR$/assets/css/3-sections/home.sass" />
+        <option value="$PROJECT_DIR$/_includes/home.pug" />
       </list>
     </option>
   </component>
@@ -187,12 +186,12 @@
       <option name="presentableId" value="Default" />
       <updated>1512391861084</updated>
       <workItem from="1512391862842" duration="567000" />
-      <workItem from="1527592639299" duration="2636000" />
+      <workItem from="1527592639299" duration="2924000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3203000" />
+    <option name="totallyTimeSpent" value="3491000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
@@ -283,13 +282,6 @@
     <entry file="file://$PROJECT_DIR$/assets/js/packery.pkgd.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/home.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="6" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head.pug">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -315,6 +307,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/home.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="406" lean-forward="true" selection-start-line="8" selection-start-column="406" selection-end-line="8" selection-end-column="406" />
         </state>
       </provider>
     </entry>
